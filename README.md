@@ -31,7 +31,25 @@ Check out my personal [**Portfolio Site**](https://portfolio-bt-teal.vercel.app/
 Feel free to reach out to me for collaborations, discussions, or just to chat!
 
 - 📧 Email: [patejay.7618@gmail.com](mailto:patejay.7618@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/jay7618) | [Twitter](https://twitter.com/jaypatel7618) | [Instagram](https://instagram.com/_jay_1089) | [HackerRank](https://www.hackerrank.com/pateljay_7618)
+
+---
+
+### 🔗 **Connect with me:**
+
+<p align="center">
+    <a href="https://twitter.com/jaypatel7618" target="blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/jay7618" target="blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/_jay_1089" target="blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.hackerrank.com/pateljay_7618" target="blank">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+</p>
 
 ---
 
